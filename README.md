@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nataniel</h1>
-<h3 align="left">A passionate web developer from Poland</h3>
+<h3 align="left">A passionate web and game developer from Poland</h3>
 
 - 🔭 I’m currently working on **some React projects**
 
